@@ -41,6 +41,10 @@ body {
 	color: #008599;
 }
 
+.skill-list li::before {
+	color: #008599;
+}
+
 .biography-details li, .skill-list li {
 	padding-left: 1em;
 }
